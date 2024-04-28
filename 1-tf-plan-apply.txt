@@ -51,7 +51,7 @@ on:
 
 permissions: write-all
   # contents: read
-  # issues: write
+  # issuess: write
 
 jobs:
   terraform:
